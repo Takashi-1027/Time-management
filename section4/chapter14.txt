@@ -1,0 +1,7 @@
+14. 自己診断テスト
+
+4.3_self_test.pdf
+
+4.3_self_test_result.pdf
+
+上記に2つのファイルを使用した。
